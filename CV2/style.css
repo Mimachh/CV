@@ -1,0 +1,46 @@
+/* GENERAL */
+li {
+  list-style: none;
+}
+
+/* ASIDE/PRESENTATION */
+.imgprofile {
+  text-align: center;
+  width: 230px;
+  height: 320px;
+}
+
+.presentation {
+  background-color: blue;
+}
+
+.parcours {
+  background-color: green;
+}
+
+/* COMPETENCES  */
+#competences .progress {
+  border-radius: 30px;
+  height: 30px;
+  margin: 20px 10px;
+}
+
+#competences .progress:last-child {
+  margin-bottom: 0;
+}
+
+#competences .progress-bar {
+  border-radius: 30px;
+  background-color: blue;
+}
+
+#competences .progress-bar h5 {
+  text-shadow: 1px 1px 1px black;
+  margin-bottom: 4px;
+  font-size: 1.3em;
+}
+
+.competences {
+  background-color: white;
+}
+/*# sourceMappingURL=style.css.map */
